@@ -71,3 +71,6 @@ Toma 12 Avenida y C. 24 hacia Av. Bolivar/CA-9 --> Continuar por CA-9. Conduce d
 Ciudad de Guatemala --> Santa Terecita
 
 Toma 12 Avenida y C. 24 hacia Av. Bolivar/CA-9. ---> Sigue por CA-9 hacia Calz. Asiole en Amatitlán. Toma la salida en dirección a Lago Amatitlán/RD-1 de CA-9 ---> Continúa por Calz. Asiole
+
+
+Prueba que funciona esta mierda
